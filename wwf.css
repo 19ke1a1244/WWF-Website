@@ -1,0 +1,95 @@
+.logo{
+    height:80px;
+    width: 80px;
+}
+.menu-items-logo{
+    height: 200px;
+    width: 150px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.menu-heading{
+    font-size: 23px;
+    font-weight: bold;
+    font-family: "roboto";
+    margin-top: 15px;
+    color: #183b56;
+}
+.about-us-heading{
+    font-size: 23px;
+    font-weight: bold;
+    font-family: "roboto";
+    margin-left:25px;
+    color: #183b56;
+}
+.about-us-para{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin: 15px;
+    margin-bottom: 10px;
+}
+.gallery-heading{
+    color: #183b56;
+    font-family: "roboto";
+    font-size: 23px;
+    margin: 10px;
+    font-weight: bold;
+}
+.menu-items-list{
+    font-style: "Roboto";
+    font-size: 16px;
+    color: silver;
+}
+.welcome-heading{
+    color: black;
+    font-weight: bold;
+    font-family: "sree brief";
+    font-size: 23px;
+
+}
+#navItem1 {
+    color: #10110d;
+    font-family: "Roboto";
+}
+  #navItem2 {
+    color: #10110d;
+    font-family: "Roboto";
+    
+}
+#navItem3 {
+    color: #10110d;
+    font-family: "Roboto";
+    
+}
+#navItem4 {
+    color: #10110d;
+    font-family: "Roboto";
+}
+#navItem5 {
+    color: #10110d;
+    font-family: "Roboto";
+}
+.welcome-image{
+    height: 80vh;
+    background-size: cover;
+    margin-top: 50px;
+    padding: 20px;
+}
+.welcome-container{
+    background-color: rgb(41, 119, 119);
+    height: 100vh;
+    background-size: cover;
+    margin: 10px;
+}
+.welcome-heading{
+    font-family: serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+}
+.big-imgs{
+    height: 30vh;
+    background-size: cover;
+}
